@@ -61,4 +61,6 @@ public class AddPlace {
 		this.types = types;
 	}
 
+//test
+
 }
